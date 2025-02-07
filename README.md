@@ -228,3 +228,5 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 
 
 wbd2qsnio23io
+
+now i understand better
